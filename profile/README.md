@@ -4,7 +4,7 @@
 
 Small, high-performance libraries -- mostly in **Zig**.
 
----
+# Repositories
 
 | Project | Description |
 |---|---|
@@ -35,5 +35,7 @@ No plan to work further on these.
 | Project | Description |
 |---|---|
 | [**java_debug_shell**](https://github.com/SmallThingz/java_debug_shell) | Keyword-free scripting language for Java debugging. Full JVM interop, single file. |
+
+---
 
 > *Small thingz, well made.*
