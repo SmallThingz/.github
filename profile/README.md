@@ -9,7 +9,7 @@ Small, high-performance libraries -- mostly in **Zig**.
 | Project | Description |
 |---|---|
 | [**zhtml**](https://github.com/SmallThingz/zhtml) | GiB/s+ HTML parser + CSS selector engine. Destructive by default, non-destructive opt-in. |
-| [**zxml** (fastxml)](https://github.com/SmallThingz/zxml) | Low-latency XML DOM parser — 3.7 GB/s turbo profile, strict mode available. |
+| [**zxml**](https://github.com/SmallThingz/zxml) | Low-latency XML DOM parser — 3.7 GB/s turbo profile, strict mode available. |
 | [**oneserial**](https://github.com/SmallThingz/oneserial) | Typed single-buffer serialization — validate once, traverse via typed views, decode on demand. |
 | [**onealloc**](https://github.com/SmallThingz/onealloc) | Convert nested structs into one contiguous allocation. IPC-ready, cache-friendly. |
 | [**libbrotli.zig**](https://github.com/SmallThingz/libbrotli.zig) | Vendored libbrotli with typed Zig helpers + full C API. |
