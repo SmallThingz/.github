@@ -8,6 +8,8 @@ Small, high-performance libraries — mostly in **Zig**.
 
 ---
 
+| Project | Description |
+|---|---|
 | [**zhtml**](https://github.com/SmallThingz/zhtml) | GiB/s+ HTML parser + CSS selector engine. Destructive by default, non-destructive opt-in. |
 | [**zxml** (fastxml)](https://github.com/SmallThingz/zxml) | Low-latency XML DOM parser — 3.7 GB/s turbo profile, strict mode available. |
 | [**oneserial**](https://github.com/SmallThingz/oneserial) | Typed single-buffer serialization — validate once, traverse via typed views, decode on demand. |
@@ -21,6 +23,8 @@ Small, high-performance libraries — mostly in **Zig**.
 ## 🚧 Unusable
 In Progress, likely broken.
 
+| Project | Description |
+|---|---|
 | [**zhttp**](https://github.com/SmallThingz/zhttp) | Low-latency HTTP/1.1 server with comptime routing, typed captures, composable middleware. |
 | [**zws**](https://github.com/SmallThingz/zws) | RFC 6455 WebSocket primitives — lean frame hot path, `permessage-deflate`, strict validation. |
 | [**ziglibc**](https://github.com/SmallThingz/ziglibc) | Experimental libc in Zig — C stdlib + POSIX surface. |
@@ -30,4 +34,6 @@ In Progress, likely broken.
 ## Archived
 No plan to work further on these.
 
+| Project | Description |
+|---|---|
 | [**java_debug_shell**](https://github.com/SmallThingz/java_debug_shell) | Keyword-free scripting language for Java debugging. Full JVM interop, single file. |
