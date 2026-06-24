@@ -8,10 +8,10 @@ Small, high-performance libraries, mostly in **Zig**.
 
 | Project | Description |
 |---|---|
-| [**zhtml**](https://github.com/SmallThingz/zhtml) | GiB/s+ HTML parser + CSS selector engine. Destructive by default, non-destructive opt-in. |
-| [**zxml**](https://github.com/SmallThingz/zxml) | Low-latency XML DOM parser, 3.7 GB/s turbo profile, strict mode available. |
-| [**oneserial**](https://github.com/SmallThingz/oneserial) | Typed single-buffer serialization, validate once, traverse via typed views, decode on demand. |
+| [**zhtml**](https://github.com/SmallThingz/zhtml) | GiB/s+ DOM HTML parser + CSS selector engine. Destructive & non-destructive options. |
+| [**zxml**](https://github.com/SmallThingz/zxml) | GiB/s+ DOM XML parser. |
 | [**onealloc**](https://github.com/SmallThingz/onealloc) | Convert nested structs into one contiguous allocation. IPC-ready, cache-friendly. |
+| [**oneserial**](https://github.com/SmallThingz/oneserial) | Typed single-buffer serialization, validate once, traverse via typed views, decode on demand. |
 | [**libbrotli.zig**](https://github.com/SmallThingz/libbrotli.zig) | Vendored libbrotli with typed Zig helpers + full C API. |
 | [**libzstd.zig**](https://github.com/SmallThingz/libzstd.zig) | Vendored libzstd with typed Zig helpers + full C API. |
 | [**unarr**](https://github.com/SmallThingz/unarr) | Multi-format archive bindings, RAR, TAR, ZIP, 7z. Zig-managed C build. |
