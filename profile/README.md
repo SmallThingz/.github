@@ -18,6 +18,13 @@ Small, high-performance libraries, mostly in **Zig**.
 | [**unarr**](https://github.com/SmallThingz/unarr) | Multi-format archive bindings, RAR, TAR, ZIP, 7z. Zig-managed C build. |
 | [**zig_dotenv**](https://github.com/SmallThingz/zig_dotenv) | Comptime and runtime `.env` loader. Microlibrary, copy it in or fetch it. |
 
+## Archived
+No plan to work further on these.
+
+| Project | Description |
+|---|---|
+| [**java_debug_shell**](https://github.com/SmallThingz/java_debug_shell) | Keyword-free scripting language for Java debugging. Full JVM interop, single file. |
+
 ## 🚧 Unusable
 In Progress, likely broken.
 
@@ -29,12 +36,6 @@ In Progress, likely broken.
 | [**alldriver**](https://github.com/SmallThingz/alldriver) | Cross-platform browser automation via CDP + BiDi. Chrome, Firefox, Lightpanda, Electron, WebView2. |
 | [**subdl**](https://github.com/SmallThingz/subdl) | Subtitle scraper with 12 providers, CLI, and Vaxis TUI. |
 
-## Archived
-No plan to work further on these.
-
-| Project | Description |
-|---|---|
-| [**java_debug_shell**](https://github.com/SmallThingz/java_debug_shell) | Keyword-free scripting language for Java debugging. Full JVM interop, single file. |
 
 ---
 
