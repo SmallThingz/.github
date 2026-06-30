@@ -9,6 +9,7 @@ Small, high-performance libraries, mostly in **Zig**.
 | Project | Description |
 |---|---|
 | [**zhtml**](https://github.com/SmallThingz/zhtml) | GiB/s+ DOM HTML parser + CSS selector engine. Destructive & non-destructive options. |
+| [**timetravel**](https://github.com/SmallThingz/timetravel) | Rolling audio buffer recorder for Android (Kotlin). Disk-backed restore, fast export. |
 | [**zxml**](https://github.com/SmallThingz/zxml) | GiB/s+ DOM XML parser. |
 | [**onealloc**](https://github.com/SmallThingz/onealloc) | Convert nested structs into one contiguous allocation. IPC-ready, cache-friendly. |
 | [**oneserial**](https://github.com/SmallThingz/oneserial) | Typed single-buffer serialization, validate once, traverse via typed views, decode on demand. |
@@ -16,7 +17,6 @@ Small, high-performance libraries, mostly in **Zig**.
 | [**libzstd.zig**](https://github.com/SmallThingz/libzstd.zig) | Vendored libzstd with typed Zig helpers + full C API. |
 | [**unarr**](https://github.com/SmallThingz/unarr) | Multi-format archive bindings, RAR, TAR, ZIP, 7z. Zig-managed C build. |
 | [**zig_dotenv**](https://github.com/SmallThingz/zig_dotenv) | Comptime and runtime `.env` loader. Microlibrary, copy it in or fetch it. |
-| [**timetravel**](https://github.com/SmallThingz/timetravel) | Rolling audio buffer recorder for Android (Kotlin). Disk-backed restore, fast export. |
 
 ## 🚧 Unusable
 In Progress, likely broken.
