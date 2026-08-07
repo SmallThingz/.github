@@ -16,7 +16,7 @@ Small, high-performance libraries, mostly in **Zig**.
 | [**libbrotli.zig**](https://github.com/SmallThingz/libbrotli.zig) | Vendored libbrotli with typed Zig helpers + full C API. |
 | [**libzstd.zig**](https://github.com/SmallThingz/libzstd.zig) | Vendored libzstd with typed Zig helpers + full C API. |
 | [**unarr**](https://github.com/SmallThingz/unarr) | Multi-format archive bindings, RAR, TAR, ZIP, 7z. Zig-managed C build. |
-| [**zig_dotenv**](https://github.com/SmallThingz/zig_dotenv) | Comptime and runtime `.env` loader. Microlibrary, copy it in or fetch it. |
+| [**zdotenv**](https://github.com/SmallThingz/zdotenv) | Comptime and runtime `.env` loader. Microlibrary, copy it in or fetch it. |
 
 ## Archived
 No plan to work further on these.
