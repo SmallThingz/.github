@@ -26,16 +26,7 @@ No plan to work further on these.
 | [**java_debug_shell**](https://github.com/SmallThingz/java_debug_shell) | Keyword-free scripting language for Java debugging. Full JVM interop, single file. |
 
 ## 🚧 Unusable
-In Progress, likely broken.
-
-| Project | Description |
-|---|---|
-| [**zhttp**](https://github.com/SmallThingz/zhttp) | Low-latency HTTP/1.1 server with comptime routing, typed captures, composable middleware. |
-| [**zws**](https://github.com/SmallThingz/zws) | RFC 6455 WebSocket primitives, lean frame hot path, `permessage-deflate`, strict validation. |
-| [**ziglibc**](https://github.com/SmallThingz/ziglibc) | Experimental libc in Zig, C stdlib + POSIX surface. |
-| [**alldriver**](https://github.com/SmallThingz/alldriver) | Cross-platform browser automation via CDP + BiDi. Chrome, Firefox, Lightpanda, Electron, WebView2. |
-| [**subdl**](https://github.com/SmallThingz/subdl) | Subtitle scraper with 12 providers, CLI, and Vaxis TUI. |
-
+Every other repo not in the lists above is likely broken and should not be used as is.
 
 ---
 
