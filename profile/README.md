@@ -13,9 +13,6 @@ Small, high-performance libraries, mostly in **Zig**.
 | [**zxml**](https://github.com/SmallThingz/zxml) | GiB/s+ DOM XML parser. |
 | [**onealloc**](https://github.com/SmallThingz/onealloc) | Convert nested structs into one contiguous allocation. IPC-ready, cache-friendly. |
 | [**oneserial**](https://github.com/SmallThingz/oneserial) | Typed single-buffer serialization, validate once, traverse via typed views, decode on demand. |
-| [**libbrotli.zig**](https://github.com/SmallThingz/libbrotli.zig) | Vendored libbrotli with typed Zig helpers + full C API. |
-| [**libzstd.zig**](https://github.com/SmallThingz/libzstd.zig) | Vendored libzstd with typed Zig helpers + full C API. |
-| [**unarr**](https://github.com/SmallThingz/unarr) | Multi-format archive bindings, RAR, TAR, ZIP, 7z. Zig-managed C build. |
 | [**zdotenv**](https://github.com/SmallThingz/zdotenv) | Comptime and runtime `.env` loader. Microlibrary, copy it in or fetch it. |
 
 ## Archived
